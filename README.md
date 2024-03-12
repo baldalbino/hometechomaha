@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+<img src="[https://github.com/baldalbino/hometechomaha/blob/1e335552293d76baae382e61271810cc323aa09d/1.svg](https://github.com/baldalbino/hometechomaha/blob/1e335552293d76baae382e61271810cc323aa09d/1.svg)">
 </svg>
  
 </body>
