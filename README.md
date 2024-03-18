@@ -65,10 +65,9 @@
 <body onload="prettyPrint()">
 
 <div class="container">
-    <a class="ribbon" href="http://github.com/necolas/css3-social-signin-buttons" target="_blank"><img src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
     <div class="header">
-        <h1>CSS3 Social Sign-in Buttons</h1>
+        <h1>HomeTech Solutions</h1>
     </div>
 
     <div class="section">
