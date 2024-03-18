@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>CSS3 Social Sign-in Buttons</title>
-    <meta name="description" content="Using CSS3 to create social sign-in buttons for Facebook, Twitter, Google, GitHub, Windows Live ID, Yahoo!, and OpenID">
+    <title>HOMETECH SOLUTIONS</title>
+    <meta name="description" content="HomeTech Omaha">
     <style>
         /* BASE */
 
