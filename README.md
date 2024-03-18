@@ -75,7 +75,7 @@
     Sign in with &lt;b>[service]&lt;/b>
 &lt;/a></code></pre>
             <div>
-                <p><img src="https://github.com/baldalbino/hometechomaha/blob/32eb0e9b409acbc9d9ab718633bb50cbc2023715/docs/1.png"></p>
+                <img src="https://github.com/baldalbino/hometechomaha/blob/32eb0e9b409acbc9d9ab718633bb50cbc2023715/docs/1.png" alt="HomeTech logo" style="max-width: 100%;">
                 <p><button class="btn-auth btn-twitter">Sign in with <b>Twitter</b></button></p>
                 <p><a class="btn-auth btn-google" href="#button">Sign in with <b>Google</b></a></p>
                 <p><button class="btn-auth btn-github">Sign in with <b>GitHub</b></button></p>
