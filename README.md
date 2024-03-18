@@ -16,7 +16,7 @@
         h2 { margin: 0 0 0.75em; font-size: 15px; }
         p { margin: 0 0 1.333em; }
         em { font-style: italic; }
-        table { border-collapse: separate; border-spacing: 0; margin:  0; vertical-align: middle; }
+        
         th { font-weight: bold; }
         th, td { padding: 5px 25px 5px 5px; text-align: left; vertical-align: middle; }
         pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
