@@ -67,12 +67,12 @@
 <div class="container">
 
     <div class="header">
-        <h1>HomeTech Solutions</h1>
+        <h1>HomeTech Solutions: Your Tech,Our Expertise</h1>
     </div>
 
     <div class="section">
-        <h2>Standard Buttons</h2>
-        <p>To create the default sign-in button, add a class of <code>btn-auth</code> and <code>btn-[service]</code> (where <code>[service]</code> is one of the supported social sign-in services) to any appropriate element (most likely an anchor).</p>
+        <h2>Who We Are</h2>
+        <p>Are you tired of dealing with tech troubles at home? Look no further – we're here to assist you with a range of tech-related needs right at your doorstep! Whether you're looking to update your knowledge about your home PC or phone, need someone patient to walk you through issues, experiencing slow internet, or simply want help connecting a smart TV, we've got you covered. Call us or email us – we're your neighborhood geek squad, ready to simplify your tech world!</p>
 
         <div class="example">
             <pre class="prettyprint"><code>&lt;a class="btn-auth btn-[service]" href="#">
