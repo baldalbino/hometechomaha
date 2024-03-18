@@ -7,7 +7,7 @@
         /* BASE */
 
         html { font-size:100%; }
-        body { padding: 40px 0 20px; margin: 0; font: 13px/1.333 "lucida grande", tahoma, sans-serif; color: #333; background: #fff;}
+        body { padding: 40px 0 20px; margin: 0; font: 13px/1.333 "lucida grande", tahoma, sans-serif; color: #333; background: #137DC5;}
 
         a, a:visited { color: #980905; }
         a:hover, a:focus, a:active { text-decoration: none; }
