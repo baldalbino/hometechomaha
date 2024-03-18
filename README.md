@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>CSS3 Social Sign-in Buttons</title>
-    <meta name="description" content="Using CSS3 to create social sign-in buttons for Facebook, Twitter, Google, GitHub, Windows Live ID, Yahoo!, and OpenID">
+    <title>HomeTech Solutions</title>
+    <meta name="description" content="HomeTech Solutions">
     <style>
         /* BASE */
 
@@ -146,7 +146,6 @@
 </div>
 
 <div class="footer">
-    <a href="http://github.com/necolas/css3-social-signin-buttons">CSS3 Social Sign-in Buttons</a> by <a href="http://nicolasgallagher.com">Nicolas Gallagher</a>.
 </div>
 
 </body>
