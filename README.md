@@ -16,7 +16,8 @@
         h2 { margin: 0 0 0.75em; font-size: 15px; }
         p { margin: 0 0 1.333em; }
         em { font-style: italic; }
-        
+        pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
+        pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
         th { font-weight: bold; }
         th, td { padding: 5px 25px 5px 5px; text-align: left; vertical-align: middle; }
 
@@ -54,11 +55,7 @@
         }
     </style>
 
-    <link rel="stylesheet" href="auth-buttons.css">
 
-    <!-- prettyify -->
-    <link rel="stylesheet" href="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css">
-    <script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
 </head>
 
 <body onload="prettyPrint()">
@@ -66,7 +63,7 @@
 <div class="container">
 
     <div class="header">
-        <h1>HomeTech Solutions: Your Tech,Our Expertise</h1>
+        <h1>HomeTech Solutions: Your Tech, Our Expertise</h1>
     </div>
 
     <div class="section">
@@ -137,8 +134,6 @@
     </div>
 
     <div class="section">
-        <h2>License</h2>
-        <p>Public domain: <a href="http://unlicense.org/">http://unlicense.org/</a></p>
     </div>
 </div>
 
