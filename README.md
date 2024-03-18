@@ -19,8 +19,7 @@
         
         th { font-weight: bold; }
         th, td { padding: 5px 25px 5px 5px; text-align: left; vertical-align: middle; }
-        pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
-        pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
+
         ul { list-style: square; margin: 1em 0 1em 0px; padding: 0; }
 
         /* TEMPLATE */
