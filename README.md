@@ -1,5 +1,4 @@
 <html>
- <meta http-equiv="Refresh" content="2; url=public/index.html">
 <body>
 
 <img src="../docs/1.png">
